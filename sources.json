@@ -1,0 +1,8 @@
+[
+  {
+    "name": "placeholder",
+    "movie": "https://example.com/{tmdb}",
+    "tv": "https://example.com/{tmdb}/{s}/{e}",
+    "regex": "file:\\s*[\"']([^\"']+\\.m3u8[^\"']*)"
+  }
+]
